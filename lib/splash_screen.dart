@@ -44,16 +44,6 @@ class _SplashScreenState extends State<SplashScreen> {
           )
               : Container(),
         ),
-        // floatingActionButton: FloatingActionButton(
-        //   onPressed: () {
-        //     setState(() {
-        //       _controller.play();
-        //     });
-        //   },
-        //   child: Icon(
-        //     _controller.value.isPlaying ? Icons.pause : Icons.play_arrow,
-        //   ),
-        // ),
       );
 
   }
